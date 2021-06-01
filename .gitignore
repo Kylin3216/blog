@@ -1,7 +1,7 @@
 # npm
 package-lock.json
 node_modules
-
+.firebase
 # yarn
 yarn.lock
 
